@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
-Premain-Class: com.java.agent.test.MyAgent
 Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: com.example.dsz.MyAgent
